@@ -9,6 +9,23 @@ with grid/list views, and service-worker-powered notifications.
 
 ---
 
+## 🚀 Live Demo
+
+🌐 **https://medicore-priyanka.netlify.app**
+
+### Test credentials
+
+| Field | Value |
+| --- | --- |
+| **Email** | `demo@medicore.app` |
+| **Password** | `demo1234` |
+
+> Powered by **Firebase Authentication** (email/password). The same credentials
+> work both on the deployed site and locally. If running locally without a
+> `.env.local` file, the app falls back to an identical demo account.
+
+---
+
 ## ✨ Features
 
 | Module | What's included |
